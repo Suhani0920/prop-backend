@@ -1,0 +1,6 @@
+bin/
+obj/
+*.json
+*.db
+*.env
+*.log
